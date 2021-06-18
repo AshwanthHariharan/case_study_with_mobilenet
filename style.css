@@ -1,0 +1,33 @@
+
+body {
+
+text-align: center;
+
+}
+
+img {
+
+height: 400px;
+
+border-radius: 10px;
+
+}
+
+div {
+
+background-color: grey;
+
+text-align: left;
+
+width:50%;
+
+border-radius:10px;
+
+}
+
+p {
+
+color:white;
+
+}
+
